@@ -1,5 +1,5 @@
 # NINCOP
-"NINCOP is not C or Python". (pronounced nin'-in-cop", or nin'-lang)
+"NINCOP is not C or Python". (pronounced nin'-cop", or nin'-lang)
 
 Programming language for people who want something a little different. NINCOP takes features from other languages and rejects some and incorporates others into a languate that anyone who already knows how to write code in any C-like language or any Python-like language can become productive in minutes. It is intended to be as simple as possible but still allow just about anything to be implemented.
 
