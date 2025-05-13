@@ -17,6 +17,7 @@ Programming language for people who want something a little different. NINCOP ta
 * Inheritance.
 * Namespaces.
 * Operator overloading.
+* Strong types with casting.
 
 ## Unsupported Features
 * Pointers
