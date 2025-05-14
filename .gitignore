@@ -1,15 +1,9 @@
-scanner.c
-scanner.h
-template.c
-template.h
-parser.c
-parser.h
-parser.output
 *.deps
 build/
 docs/out/
 bin/
 lib/
+.cache/
 
 # Prerequisites
 *.d
